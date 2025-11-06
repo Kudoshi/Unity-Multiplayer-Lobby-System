@@ -55,5 +55,6 @@ Check out these scripts/objects for configs:
 <img width="675" height="381" alt="image" src="https://github.com/user-attachments/assets/a92f217a-9c89-465c-a7f2-947c54c35cb3" />
 <img width="1912" height="927" alt="image" src="https://github.com/user-attachments/assets/e4bd3e33-d70b-4e90-8420-0c86f523664b" />
 
-
+# Known issues
+1. Doesn't handle forced disconnect (game crash) properly. Player will still be shown in lobby 
 
